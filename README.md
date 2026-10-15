@@ -118,3 +118,9 @@ Python · Qiskit · NumPy · SciPy · Matplotlib · IBM Quantum
 This repository presents a collaborative group project and does not claim sole authorship. I acknowledge the contributions of **Bhoopesh Dosieah, Anay Chadha, Shailesh Devarasu, Akshat Dalmia and Hamish Cranston**.
 
 See [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md) for the full acknowledgement statement.
+
+---
+
+## Research portfolio
+
+This repository is part of my physics research and scientific-computing portfolio. See my [GitHub profile](https://github.com/saqibumaircheema) for related work in detector instrumentation, particle-physics analysis, simulation, statistical inference and scientific machine learning.
